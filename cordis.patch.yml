@@ -1,0 +1,4 @@
+# dsh-usage-daily 用量日报：右下角浮窗
+- insert:
+    - id: ui-usage-daily
+      name: 'dsh-usage-daily'
